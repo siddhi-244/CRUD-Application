@@ -26,4 +26,4 @@ Port to send requests - 8080
 |GET | localhost:8080/book/review?bookid={id} | id | |
 | POST | localhost:8080/book/review | | { "bookid": "612" , "rating":5,"review":"Awesome"} |
 | PUT | localhost:8080/book/review?id={id}&rating={rating} | id,bookid,rating,review |   |
-|DELETE | localhost:8080/book/review?bookid={id} |id | |
+|DELETE | localhost:8080/book/review?id={id} |id | |
