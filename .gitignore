@@ -1,0 +1,6 @@
+/.idea
+/src/test
+/target
+/config.yml
+/pom.xml
+.DS_Store
