@@ -11,7 +11,7 @@ A sImple CRUD application using dropwizard. Using GET,POST,PUT & DELETE we imple
 
 ### Table Structure
 table name - book_review
-columns 
+#### columns 
 1. id - (pk) - character varying (40)
 2. bookid - character varying (40)
 3. rating - integer
